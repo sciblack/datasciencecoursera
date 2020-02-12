@@ -1,7 +1,0 @@
----
-title: "RMarkdown_assignment1"
-author: "Dr. Shiv Joshi"
-date: "12 February 2020"
-output: word_document
----
-## This is a markdown file
